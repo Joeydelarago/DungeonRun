@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+body {
+    background-color: #0099cc;
+
+}
+
+canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid black;
+    background-color: White;
+}
